@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Netflix Clone iOS15
 //
-//  Created by Bojan Peric on 21.2.22..
+//  Created by Bojan Peric on 21.2.22.
 //
 
 import UIKit
@@ -17,7 +17,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(frame: windowScene.coordinateSpace.bounds)
         window?.windowScene = windowScene
-        window?.rootViewController = ViewController()
+        window?.rootViewController = MainTabBarViewController()
         window?.makeKeyAndVisible()
     }
 
