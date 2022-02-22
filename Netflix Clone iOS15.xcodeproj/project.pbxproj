@@ -17,6 +17,7 @@
 		5D58A34B27C3F75F00958609 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D58A34A27C3F75F00958609 /* SearchViewController.swift */; };
 		5D58A34E27C3F7B300958609 /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D58A34D27C3F7B300958609 /* DownloadsViewController.swift */; };
 		5D58A35527C4E35000958609 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D58A35427C4E35000958609 /* CollectionViewTableViewCell.swift */; };
+		5D603AED27C554B90044AA91 /* WitcherHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D603AEC27C554B90044AA91 /* WitcherHeaderUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5D58A34A27C3F75F00958609 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		5D58A34D27C3F7B300958609 /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		5D58A35427C4E35000958609 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		5D603AEC27C554B90044AA91 /* WitcherHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WitcherHeaderUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				5D58A35427C4E35000958609 /* CollectionViewTableViewCell.swift */,
+				5D603AEC27C554B90044AA91 /* WitcherHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				5D58A34B27C3F75F00958609 /* SearchViewController.swift in Sources */,
 				5D58A33627C3C8B600958609 /* MainTabBarViewController.swift in Sources */,
 				5D58A35527C4E35000958609 /* CollectionViewTableViewCell.swift in Sources */,
+				5D603AED27C554B90044AA91 /* WitcherHeaderUIView.swift in Sources */,
 				5D58A34E27C3F7B300958609 /* DownloadsViewController.swift in Sources */,
 				5D58A33227C3C8B600958609 /* AppDelegate.swift in Sources */,
 				5D58A33427C3C8B600958609 /* SceneDelegate.swift in Sources */,
