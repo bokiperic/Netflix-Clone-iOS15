@@ -62,6 +62,11 @@
 		5D58A33027C3C8B600958609 /* Netflix Clone iOS15 */ = {
 			isa = PBXGroup;
 			children = (
+				5D58A35327C4DD0B00958609 /* Managers */,
+				5D58A35227C4DCF300958609 /* Resources */,
+				5D58A35127C4DCD100958609 /* Models */,
+				5D58A35027C4DCC900958609 /* Views */,
+				5D58A34F27C4DCBE00958609 /* ViewModels */,
 				5D58A34527C3F66B00958609 /* Controllers */,
 				5D58A33127C3C8B600958609 /* AppDelegate.swift */,
 				5D58A33327C3C8B600958609 /* SceneDelegate.swift */,
@@ -82,6 +87,41 @@
 				5D58A34D27C3F7B300958609 /* DownloadsViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		5D58A34F27C4DCBE00958609 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		5D58A35027C4DCC900958609 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5D58A35127C4DCD100958609 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5D58A35227C4DCF300958609 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5D58A35327C4DD0B00958609 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
